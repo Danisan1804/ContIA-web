@@ -1,5 +1,10 @@
 # ContIA
 
+proyecto alojado en la URL:
+```text
+https://asesia-contable.vercel.app
+```
+
 ContIA es una interfaz web para consultar dudas de contabilidad y finanzas, con especial atención al contexto colombiano. La aplicación utiliza una función serverless para enviar las conversaciones a Gemini sin exponer la clave de API en el navegador.
 
 ## Cómo funciona
